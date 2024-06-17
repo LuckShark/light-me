@@ -9,7 +9,7 @@ O projeto foi desenvolvido como uma forma de estudo para explorar novas maneiras
 
 ### Visualização em GIF
 
-Veja abaixo a demonstração da animação "wobble":
+Veja abaixo a demonstração da animação:
 
 ![Demonstração da luz](light-video.gif)
 
